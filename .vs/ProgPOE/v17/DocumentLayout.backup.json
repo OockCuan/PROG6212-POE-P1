@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|c:\\users\\lab_services_student\\desktop\\github\\prog6212-poe-p1\\views\\coordinator\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|solutionrelative:views\\coordinator\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|c:\\users\\lab_services_student\\desktop\\github\\prog6212-poe-p1\\views\\manager\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|solutionrelative:views\\manager\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|c:\\users\\lab_services_student\\desktop\\github\\prog6212-poe-p1\\views\\coordinator\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|solutionrelative:views\\coordinator\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC323CDC-D86B-42C6-8C36-08946935BE8B}|ProgPOE.csproj|c:\\users\\lab_services_student\\desktop\\github\\prog6212-poe-p1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Reject.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\Views\\Manager\\Reject.cshtml",
               "RelativeDocumentMoniker": "Views\\Manager\\Reject.cshtml",
@@ -87,8 +87,7 @@
               "RelativeToolTip": "Views\\Manager\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T15:58:43.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T15:58:43.523Z"
             },
             {
               "$type": "Document",
@@ -100,18 +99,17 @@
               "RelativeToolTip": "Controllers\\ManagerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:55:50.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T15:55:50.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reject.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\Views\\Coordinator\\Reject.cshtml",
               "RelativeDocumentMoniker": "Views\\Coordinator\\Reject.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\Views\\Coordinator\\Reject.cshtml",
               "RelativeToolTip": "Views\\Coordinator\\Reject.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T15:40:50.666Z",
               "EditorCaption": ""
@@ -126,8 +124,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:34:23.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T15:34:23.061Z"
             },
             {
               "$type": "Document",
@@ -139,8 +136,7 @@
               "RelativeToolTip": "Views\\Coordinator\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T15:27:41.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T15:27:41.445Z"
             },
             {
               "$type": "Document",
@@ -200,8 +196,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T13:06:33.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T13:06:33.862Z"
             },
             {
               "$type": "Document",
@@ -213,8 +208,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T13:22:01.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T13:22:01.749Z"
             }
           ]
         }
