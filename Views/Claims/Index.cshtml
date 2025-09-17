@@ -1,5 +1,7 @@
-﻿<div class="container mt-4">
-    <button class="btn btn-secondary text-white">New Claim</button>
+﻿@using ProgPOE.Controllers
+
+<div class="container mt-4">
+    <a class="btn btn-secondary text-white" asp-controller="Claims" asp-action="Create">New Claim</a>
 
     <table class="table">
         <thead>

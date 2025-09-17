@@ -10,5 +10,10 @@ namespace ProgPOE.Controllers
             return View();
         }
 
+        public IActionResult Create()
+        {
+            return View();
+        }
+
     }
 }
