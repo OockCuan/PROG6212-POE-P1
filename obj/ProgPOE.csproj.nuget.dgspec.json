@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\source\\repos\\ProgPOE\\ProgPOE.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\ProgPOE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\source\\repos\\ProgPOE\\ProgPOE.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\ProgPOE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\source\\repos\\ProgPOE\\ProgPOE.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\ProgPOE.csproj",
         "projectName": "ProgPOE",
-        "projectPath": "C:\\Users\\lab_services_student\\source\\repos\\ProgPOE\\ProgPOE.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\ProgPOE.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\source\\repos\\ProgPOE\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\Github\\PROG6212-POE-P1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
